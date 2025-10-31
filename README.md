@@ -26,8 +26,8 @@ Create env files from examples and never commit real secrets.
 
 - server/.env
   - PORT=5000
-  - MONGODB_URI=<your-mongodb-uri>
-  - JWT_SECRET=<your-strong-secret>
+  - MONGODB_URI=your-mongodb-uri
+  - JWT_SECRET=your-strong-secret
 - client/.env (optional)
   - VITE_API_URL=http://localhost:5000/api
 
