@@ -66,4 +66,4 @@ Base URL: http://localhost:5000/api
 - PUT  /tasks/:id    { title?, description?, status? } (Bearer)
 - DELETE /tasks/:id  (Bearer)
 
-Postman collection: ./Bajarangs_Frontend_Task.postman_collection.json
+Postman collection: ./TaskFlow.postman_collection.json
